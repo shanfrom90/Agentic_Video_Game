@@ -1,0 +1,8 @@
+{
+  "title": "Super Mario Bros.",
+  "genre": "Platformer",
+  "release_date": "1985-09-13",
+  "platforms": ["Nintendo Entertainment System"],
+  "publisher": "Nintendo",
+  "description": "A classic side-scrolling platformer where players control Mario as he travels through the Mushroom Kingdom to rescue Princess Toadstool from Bowser."
+}
